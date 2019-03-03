@@ -1,2 +1,2 @@
-# html
-college classes on internet technology
+# HTML
+College classes on internet technology
